@@ -12,6 +12,11 @@ Run npm install to download any dependencies before running.
 Free to use.
 
 ## Images
+Watch a video:
+![Video of Generator](https://drive.google.com/file/d/1V91X3IuUibDg2YHjW0UFR0P9-Qiex2Bn/view)
+
+Image of generated Example README:
+![Image of README](./assets/professional-readme-img.png)
 
 ## Future Development
 
