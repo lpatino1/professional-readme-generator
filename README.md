@@ -13,7 +13,9 @@ Free to use.
 
 ## Images
 Watch a video:
-![Video of Generator](https://drive.google.com/file/d/1V91X3IuUibDg2YHjW0UFR0P9-Qiex2Bn/view)
+<a href="https://drive.google.com/file/d/1V91X3IuUibDg2YHjW0UFR0P9-Qiex2Bn/view">Link to Google Drive Video</a>
+
+
 
 Image of generated Example README:
 ![Image of README](./assets/professional-readme-img.png)
