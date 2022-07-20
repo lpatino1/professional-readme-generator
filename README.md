@@ -13,7 +13,7 @@ Free to use.
 
 ## Images
 Watch a video:
-<a href="https://drive.google.com/file/d/1V91X3IuUibDg2YHjW0UFR0P9-Qiex2Bn/view">Link to Google Drive Video</a>
+<a href="https://drive.google.com/file/d/1V91X3IuUibDg2YHjW0UFR0P9-Qiex2Bn/view" target ="_blank">Link to Google Drive Video</a>
 
 
 
